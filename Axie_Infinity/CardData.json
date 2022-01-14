@@ -1,0 +1,2117 @@
+{
+    "Virtion": "",
+    "Data": [
+        {
+            "id": 1,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(16).png",
+            "Class": "Aquatic",
+            "part": "Hermit",
+            "name": "Shelter",
+            "type": "back",
+            "attack": 0,
+            "defense": 115,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Disable critical strikes on this Axie during this round."
+        },
+        {
+            "id": 2,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(132).png",
+            "Class": "Aquatic",
+            "part": "Blue Moon",
+            "name": "Scale Dart",
+            "type": "back",
+            "attack": 120,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Draw a card if target is in Last Stand."
+        },
+        {
+            "id": 3,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(4).png",
+            "Class": "Aquatic",
+            "part": "Goldfish",
+            "name": "Swift Escape",
+            "type": "back",
+            "attack": 105,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Speed+ to this Axie for 2 rounds when attacked."
+        },
+        {
+            "id": 4,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(15).png",
+            "Class": "Aquatic",
+            "part": "Sponge",
+            "name": "Shipwreck",
+            "type": "back",
+            "attack": 60,
+            "defense": 90,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Attack+ to this Axie if its shield breaks."
+        },
+        {
+            "id": 5,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(12).png",
+            "Class": "Aquatic",
+            "part": "Anemone",
+            "name": "Aqua Vitality",
+            "type": "back",
+            "attack": 80,
+            "defense": 35,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Successful attacks restore 50 HP for each Anemone part this Axie posseses."
+        },
+        {
+            "id": 6,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(13).png",
+            "Class": "Aquatic",
+            "part": "Perch",
+            "name": "Spinal Tap",
+            "type": "back",
+            "attack": 100,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Prioritize idle target when comboed with at least 2 additional cards."
+        },
+        {
+            "id": 7,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(10).png",
+            "Class": "Aquatic",
+            "part": "Babylonia",
+            "name": "Shell Jab",
+            "type": "horn",
+            "attack": 100,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 130% damage when attacking an idle target."
+        },
+        {
+            "id": 8,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(3).png",
+            "Class": "Aquatic",
+            "part": "TEAL SHELL",
+            "name": "Deep Sea Gore",
+            "type": "horn",
+            "attack": 50,
+            "defense": 80,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Add 30% to this Axie's shield when attacking."
+        },
+        {
+            "id": 9,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(18).png",
+            "Class": "Aquatic",
+            "part": "CLAMSHELL",
+            "name": "Clam Slash",
+            "type": "horn",
+            "attack": 110,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Attack+ to this Axie when attacking Beast, Bug, or Mech targets."
+        },
+        {
+            "id": 10,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(5).png",
+            "Class": "Aquatic",
+            "part": "ANEMONE",
+            "name": "Aquaponics",
+            "type": "horn",
+            "attack": 80,
+            "defense": 35,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Successful attacks restore 50 HP for each Anemone part this Axie posseses."
+        },
+        {
+            "id": 11,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(17).png",
+            "Class": "Aquatic",
+            "part": "ORANDA",
+            "name": "Hero's Bane",
+            "type": "horn",
+            "attack": 120,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "End target's Last Stand."
+        },
+        {
+            "id": 12,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(14).png",
+            "Class": "Aquatic",
+            "part": "SHOAL STAR",
+            "name": "Star Shuriken",
+            "type": "horn",
+            "attack": 110,
+            "defense": 10,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Target cannot enter Last Stand if this card brings its HP to zero."
+        },
+        {
+            "id": 13,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(9).png",
+            "Class": "Aquatic",
+            "part": "LAM",
+            "name": "Angry Lam",
+            "type": "mouth",
+            "attack": 110,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 120% damage if this Axie's HP is below 50%."
+        },
+        {
+            "id": 14,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(8).png",
+            "Class": "Aquatic",
+            "part": "CATFISH",
+            "name": "Swallow",
+            "type": "mouth",
+            "attack": 80,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Heal this Axie by the damage inflicted with this card."
+        },
+        {
+            "id": 15,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(131).png",
+            "Class": "Aquatic",
+            "part": "RISKY FISH",
+            "name": "Fish Hook",
+            "type": "mouth",
+            "attack": 105,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Attack+ to this Axie when attacking Plant, Reptile, or Dusk targets."
+        },
+        {
+            "id": 16,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(7).png",
+            "Class": "Aquatic",
+            "part": "PIRANHA",
+            "name": "Crimson Water",
+            "type": "mouth",
+            "attack": 120,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Target injured enemy if this Axie's HP is below 50%."
+        },
+        {
+            "id": 17,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(6).png",
+            "Class": "Aquatic",
+            "part": "KOI",
+            "name": "Upstream Swim",
+            "type": "tail",
+            "attack": 110,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Speed+ to this Axie for 2 rounds when comboed with another Aquatic Class card."
+        },
+        {
+            "id": 18,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(2).png",
+            "Class": "Aquatic",
+            "part": "NIMO",
+            "name": "Tail Slap",
+            "type": "tail",
+            "attack": 20,
+            "defense": 0,
+            "cost": 0,
+            "distance": "Melee",
+            "text": "Gain 1 energy when comboed with another card."
+        },
+        {
+            "id": 19,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(19).png",
+            "Class": "Aquatic",
+            "part": "TADPOLE",
+            "name": "Black Bubble",
+            "type": "tail",
+            "attack": 110,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Jinx to target for 2 rounds."
+        },
+        {
+            "id": 20,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(20).png",
+            "Class": "Aquatic",
+            "part": "RANCHU",
+            "name": "Water Sphere",
+            "type": "tail",
+            "attack": 120,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Chill to target for 2 rounds."
+        },
+        {
+            "id": 21,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(11).png",
+            "Class": "Aquatic",
+            "part": "NAVAGA",
+            "name": "Flanking Smack",
+            "type": "tail",
+            "attack": 100,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 120% damage if this Axie attacks first."
+        },
+        {
+            "id": 22,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(1).png",
+            "Class": "Aquatic",
+            "part": "SHRIMP",
+            "name": "Chitin Jump",
+            "type": "tail",
+            "attack": 30,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Prioritizes furthest target."
+        },
+        {
+            "id": 23,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(36).png",
+            "Class": "Beast",
+            "part": "RONIN",
+            "name": "Single Combat",
+            "type": "back",
+            "attack": 80,
+            "defense": 0,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Guaranteed critical strike when comboed with at least 2 other cards."
+        },
+        {
+            "id": 24,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(35).png",
+            "Class": "Beast",
+            "part": "HERO",
+            "name": "Heroic Reward",
+            "type": "back",
+            "attack": 60,
+            "defense": 0,
+            "cost": 0,
+            "distance": "Melee",
+            "text": "Draw a card when attacking an Aquatic, Bird, or Dawn target."
+        },
+        {
+            "id": 25,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(37).png",
+            "Class": "Beast",
+            "part": "JAGUAR",
+            "name": "Nitro Leap",
+            "type": "back",
+            "attack": 120,
+            "defense": 35,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Always strike first if this Axie is in Last Stand."
+        },
+        {
+            "id": 26,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(33).png",
+            "Class": "Beast",
+            "part": "RISKY BEAST",
+            "name": "Revenge Arrow",
+            "type": "back",
+            "attack": 125,
+            "defense": 25,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Deal 150% damage if this Axie is in Last Stand."
+        },
+        {
+            "id": 27,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(31).png",
+            "Class": "Beast",
+            "part": "TIMBER",
+            "name": "Woodman Power",
+            "type": "back",
+            "attack": 80,
+            "defense": 80,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Add Shield equal to the damage this cards deals to Plant targets."
+        },
+        {
+            "id": 28,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(27).png",
+            "Class": "Beast",
+            "part": "FURBALL",
+            "name": "Juggling Balls",
+            "type": "back",
+            "attack": 40,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Strike 3 times."
+        },
+        {
+            "id": 29,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(41).png",
+            "Class": "Beast",
+            "part": "LITTLE BRANCH",
+            "name": "Branch Charge",
+            "type": "horn",
+            "attack": 125,
+            "defense": 25,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Increase crit chance by 20% if chained or comboed with a plant card."
+        },
+        {
+            "id": 30,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(30).png",
+            "Class": "Beast",
+            "part": "IMP",
+            "name": "Ivory Stab",
+            "type": "horn",
+            "attack": 80,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Gain 1 energy per critical strike dealt by your team this round."
+        },
+        {
+            "id": 31,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(32).png",
+            "Class": "Beast",
+            "part": "MERRY",
+            "name": "Merry Legion",
+            "type": "horn",
+            "attack": 75,
+            "defense": 85,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Add 20% shield to this Axie when played in a chain."
+        },
+        {
+            "id": 32,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(34).png",
+            "Class": "Beast",
+            "part": "POCKY",
+            "name": "Sugar Rush",
+            "type": "horn",
+            "attack": 120,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 10% additional damage for each allied Bug Axie."
+        },
+        {
+            "id": 33,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(21).png",
+            "Class": "Beast",
+            "part": "DUAL BLADE",
+            "name": "Sinister Strike",
+            "type": "horn",
+            "attack": 130,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 200% damage on critical strikes."
+        },
+        {
+            "id": 34,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(39).png",
+            "Class": "Beast",
+            "part": "ARCO",
+            "name": "Acrobatic",
+            "type": "horn",
+            "attack": 100,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Speed + to this Axie for 2 rounds when attacked."
+        },
+        {
+            "id": 35,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(40).png",
+            "Class": "Beast",
+            "part": "NUT CRACKER",
+            "name": "Nut Crack",
+            "type": "mouth",
+            "attack": 105,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 120% damage when comboed with another 'Nut Cracker' card."
+        },
+        {
+            "id": 36,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(28).png",
+            "Class": "Beast",
+            "part": "GODA",
+            "name": "Piercing Sound",
+            "type": "mouth",
+            "attack": 80,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Destoy 1 of your opponent's energy."
+        },
+        {
+            "id": 37,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(25).png",
+            "Class": "Beast",
+            "part": "AXIE KISS",
+            "name": "Death Mark",
+            "type": "mouth",
+            "attack": 100,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Lethal to target if this Axie's HP is below 30%."
+        },
+        {
+            "id": 38,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(23).png",
+            "Class": "Beast",
+            "part": "CONFIDENT",
+            "name": "Self Rally",
+            "type": "mouth",
+            "attack": 0,
+            "defense": 30,
+            "cost": 0,
+            "distance": "Support",
+            "text": "Apply 2 Morale+ to this Axie for 2 rounds."
+        },
+        {
+            "id": 39,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(42).png",
+            "Class": "Beast",
+            "part": "COTTONTAIL",
+            "name": "Luna Absorb",
+            "type": "tail",
+            "attack": 0,
+            "defense": 30,
+            "cost": 0,
+            "distance": "Ranged",
+            "text": "Gain 1 energy."
+        },
+        {
+            "id": 40,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(22).png",
+            "Class": "Beast",
+            "part": "RICE",
+            "name": "Night Steal",
+            "type": "tail",
+            "attack": 80,
+            "defense": 10,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Steal 1 energy from your opponent when comboed with another card."
+        },
+        {
+            "id": 41,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(24).png",
+            "Class": "Beast",
+            "part": "SHIBA",
+            "name": "Rampant Howl",
+            "type": "tail",
+            "attack": 120,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Morale+ to your team for 2 rounds if this Axie attacks while in Last Stand."
+        },
+        {
+            "id": 42,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(26).png",
+            "Class": "Beast",
+            "part": "HARE",
+            "name": "Hare Dagger",
+            "type": "tail",
+            "attack": 120,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Draw a card if this Axie attacks at the beginning of the round."
+        },
+        {
+            "id": 43,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(38).png",
+            "Class": "Beast",
+            "part": "NUT CRACKER",
+            "name": "Nut Throw",
+            "type": "tail",
+            "attack": 105,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Deal 120% damage when comboed with another 'Nut Cracker' card."
+        },
+        {
+            "id": 44,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(29).png",
+            "Class": "Beast",
+            "part": "GERBIL",
+            "name": "Gerbil Jump",
+            "type": "tail",
+            "attack": 40,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Skip the closest target if there are 2 or more enemies remaining."
+        },
+        {
+            "id": 45,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(108).png",
+            "Class": "Plant",
+            "part": "TURNIP",
+            "name": "Turnip Rocket",
+            "type": "back",
+            "attack": 60,
+            "defense": 80,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Target a bird if comboed with 2 or more cards."
+        },
+        {
+            "id": 46,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(97).png",
+            "Class": "Plant",
+            "part": "Shiitake",
+            "name": "Shroom's Grace",
+            "type": "back",
+            "attack": 0,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Support",
+            "text": "Heal this Axie for 120 HP."
+        },
+        {
+            "id": 47,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(90).png",
+            "Class": "Plant",
+            "part": "Bidens",
+            "name": "Cleanse Scent",
+            "type": "back",
+            "attack": 0,
+            "defense": 50,
+            "cost": 0,
+            "distance": "Support",
+            "text": "Remove all debuffs from this Axie."
+        },
+        {
+            "id": 48,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(95).png",
+            "Class": "Plant",
+            "part": "WATERING CAN",
+            "name": "Aqua Stock",
+            "type": "back",
+            "attack": 45,
+            "defense": 80,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Gain 1 energy if this Axie is struck by an Aquatic card."
+        },
+        {
+            "id": 49,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(91).png",
+            "Class": "Plant",
+            "part": "MINT",
+            "name": "Refresh",
+            "type": "back",
+            "attack": 0,
+            "defense": 50,
+            "cost": 0,
+            "distance": "Support",
+            "text": "Remove all debuffs from a teammate if its directly in front (same row) of this Axie."
+        },
+        {
+            "id": 50,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(101).png",
+            "Class": "Plant",
+            "part": "PUMPKIN",
+            "name": "October Treat",
+            "type": "back",
+            "attack": 0,
+            "defense": 115,
+            "cost": 1,
+            "distance": "Support",
+            "text": "Draw a card if this Axie's shield doesn't break this round."
+        },
+        {
+            "id": 51,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(96).png",
+            "Class": "Plant",
+            "part": "BAMBOO SHOOT",
+            "name": "Bamboo Clan",
+            "type": "horn",
+            "attack": 80,
+            "defense": 70,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Increased 20% damage when chained with another plant card."
+        },
+        {
+            "id": 52,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(87).png",
+            "Class": "Plant",
+            "part": "BEECH",
+            "name": "Wooden Stab",
+            "type": "horn",
+            "attack": 105,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 120% damage if this Axie's shield breaks."
+        },
+        {
+            "id": 53,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(99).png",
+            "Class": "Plant",
+            "part": "ROSE BUD",
+            "name": "Healing Aroma",
+            "type": "horn",
+            "attack": 0,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Support",
+            "text": "Heal this Axie for 120 HP."
+        },
+        {
+            "id": 54,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(107).png",
+            "Class": "Plant",
+            "part": "STRAWBERRY SHORTCAKE",
+            "name": "Sweet Party",
+            "type": "horn",
+            "attack": 0,
+            "defense": 40,
+            "cost": 2,
+            "distance": "Support",
+            "text": "Heal front teammate for 270 HP. If there are no front teammates, heal this Axie instead."
+        },
+        {
+            "id": 55,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(89).png",
+            "Class": "Plant",
+            "part": "CACTUS",
+            "name": "Prickly Trap",
+            "type": "horn",
+            "attack": 115,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 120% damage if this Axie attacks last."
+        },
+        {
+            "id": 56,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(105).png",
+            "Class": "Plant",
+            "part": "WATERMELON",
+            "name": "Seed Bullet",
+            "type": "horn",
+            "attack": 30,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Target the fastest enemy."
+        },
+        {
+            "id": 57,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(93).png",
+            "Class": "Plant",
+            "part": "SERIOUS",
+            "name": "Vegetal Bite",
+            "type": "mouth",
+            "attack": 30,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Steal 1 energy from your opponent when comboed with another card."
+        },
+        {
+            "id": 58,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(103).png",
+            "Class": "Plant",
+            "part": "ZIGZAG",
+            "name": "Drain Bite",
+            "type": "mouth",
+            "attack": 60,
+            "defense": 60,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Heal this Axie by the damage this card inflicts."
+        },
+        {
+            "id": 59,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(102).png",
+            "Class": "Plant",
+            "part": "HERBIVORE",
+            "name": "Vegan Diet",
+            "type": "mouth",
+            "attack": 75,
+            "defense": 75,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Heal this Axie by the damage this card inflicts on a Plant target."
+        },
+        {
+            "id": 60,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(92).png",
+            "Class": "Plant",
+            "part": "SILENCE WHISPER",
+            "name": "Forest Spirit",
+            "type": "mouth",
+            "attack": 0,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Support",
+            "text": "Heal front teammate for 190 HP."
+        },
+        {
+            "id": 61,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(88).png",
+            "Class": "Plant",
+            "part": "CARROT",
+            "name": "Carrot Hammer",
+            "type": "tail",
+            "attack": 70,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Gain 1 energy if this Axie's shield breaks. Can only trigger once per round."
+        },
+        {
+            "id": 62,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(100).png",
+            "Class": "Plant",
+            "part": "CATTAIL",
+            "name": "Cattail Slap",
+            "type": "tail",
+            "attack": 20,
+            "defense": 30,
+            "cost": 0,
+            "distance": "Melee",
+            "text": "Draw a card if struck by a Beast, Bug, or Mech card."
+        },
+        {
+            "id": 63,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(104).png",
+            "Class": "Plant",
+            "part": "HATSUNE",
+            "name": "Leek Leak",
+            "type": "tail",
+            "attack": 60,
+            "defense": 80,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "When hit, disable the attacker's ranged cards next round."
+        },
+        {
+            "id": 64,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(98).png",
+            "Class": "Plant",
+            "part": "YAM",
+            "name": "Gas Unleash",
+            "type": "tail",
+            "attack": 20,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply poison each time this card is used to attack or defend."
+        },
+        {
+            "id": 65,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(106).png",
+            "Class": "Plant",
+            "part": "POTATO LEAF",
+            "name": "Aqua Deflect",
+            "type": "tail",
+            "attack": 70,
+            "defense": 80,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Cannot be targeted by Aquatic cards if this Axie has teammates remaining."
+        },
+        {
+            "id": 66,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(94).png",
+            "Class": "Plant",
+            "part": "HOT BUTT",
+            "name": "Spicy Surprise",
+            "type": "tail",
+            "attack": 90,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Disable target's mouth cards next round."
+        },
+        {
+            "id": 67,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(61).png",
+            "Class": "Bird",
+            "part": "BALLOON",
+            "name": "Balloon Pop",
+            "type": "back",
+            "attack": 40,
+            "defense": 0,
+            "cost": 0,
+            "distance": "Ranged",
+            "text": "Apply Fear to target for 1 turn. If defending, apply Fear to self until next round."
+        },
+        {
+            "id": 68,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(54).png",
+            "Class": "Bird",
+            "part": "CUPID",
+            "name": "Heart Break",
+            "type": "back",
+            "attack": 120,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Morale- to enemy for 2 rounds."
+        },
+        {
+            "id": 69,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(45).png",
+            "Class": "Bird",
+            "part": "RAVEN",
+            "name": "Ill-omened",
+            "type": "back",
+            "attack": 110,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Jinx to target for 2 rounds."
+        },
+        {
+            "id": 70,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(44).png",
+            "Class": "Bird",
+            "part": "PIGEON POST",
+            "name": "Blackmail",
+            "type": "back",
+            "attack": 120,
+            "defense": 10,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Transfer all debuffs on this Axie to target."
+        },
+        {
+            "id": 71,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(60).png",
+            "Class": "Bird",
+            "part": "KINGFISHER",
+            "name": "Patient Hunter",
+            "type": "back",
+            "attack": 130,
+            "defense": 0,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Target an Aquatic Class enemy if this Axie's HP is below 50%"
+        },
+        {
+            "id": 72,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(48).png",
+            "Class": "Bird",
+            "part": "TRI FEATHER",
+            "name": "Triple Threat",
+            "type": "back",
+            "attack": 40,
+            "defense": 10,
+            "cost": 0,
+            "distance": "Ranged",
+            "text": "Attack twice if this Axie has any debuffs."
+        },
+        {
+            "id": 73,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(43).png",
+            "Class": "Bird",
+            "part": "EGGSHELL",
+            "name": "Eggbomb",
+            "type": "horn",
+            "attack": 120,
+            "defense": 0,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Aroma on this Axie until next round."
+        },
+        {
+            "id": 74,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(57).png",
+            "Class": "Bird",
+            "part": "CUCKOO",
+            "name": "Cockadoodledoo",
+            "type": "horn",
+            "attack": 0,
+            "defense": 30,
+            "cost": 0,
+            "distance": "Ranged",
+            "text": "Apply Attack+ to this Axie."
+        },
+        {
+            "id": 75,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(64).png",
+            "Class": "Bird",
+            "part": "TRUMP",
+            "name": "Air Force One",
+            "type": "horn",
+            "attack": 120,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 120% damage when chained with another \"Trump\" card."
+        },
+        {
+            "id": 76,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(53).png",
+            "Class": "Bird",
+            "part": "KESTREL",
+            "name": "Headshot",
+            "type": "horn",
+            "attack": 130,
+            "defense": 0,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Disable target's horn cards next round."
+        },
+        {
+            "id": 77,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(62).png",
+            "Class": "Bird",
+            "part": "WING HORN",
+            "name": "Smart Shot",
+            "type": "horn",
+            "attack": 50,
+            "defense": 10,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Skip the closest target if there are 2 or more enemies remaining."
+        },
+        {
+            "id": 78,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(51).png",
+            "Class": "Bird",
+            "part": "FEATHER SPEAR",
+            "name": "Feather Lunge",
+            "type": "horn",
+            "attack": 110,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 120% damage when chained with another \"Lunge\" card."
+        },
+        {
+            "id": 79,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(55).png",
+            "Class": "Bird",
+            "part": "DOUBLETALK",
+            "name": "Soothing Song",
+            "type": "mouth",
+            "attack": 60,
+            "defense": 0,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Ignore shield. Apply Sleep to target."
+        },
+        {
+            "id": 80,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(59).png",
+            "Class": "Bird",
+            "part": "PEACE MAKER",
+            "name": "Peace Treaty",
+            "type": "mouth",
+            "attack": 120,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Attack- on target."
+        },
+        {
+            "id": 81,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(56).png",
+            "Class": "Bird",
+            "part": "HUNGRY BIRD",
+            "name": "Insectivore",
+            "type": "mouth",
+            "attack": 110,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Target Bug Class enemy if this Axie's HP is below 50%."
+        },
+        {
+            "id": 82,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(52).png",
+            "Class": "Bird",
+            "part": "LITTLE OWL",
+            "name": "Dark Swoop",
+            "type": "mouth",
+            "attack": 25,
+            "defense": 0,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Target fastest enemy."
+        },
+        {
+            "id": 83,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(46).png",
+            "Class": "Bird",
+            "part": "SWALLOW",
+            "name": "Early Bird",
+            "type": "tail",
+            "attack": 110,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Deal 120% damage if this Axie attacks first."
+        },
+        {
+            "id": 84,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(58).png",
+            "Class": "Bird",
+            "part": "FEATHER FAN",
+            "name": "Sunder Armor",
+            "type": "tail",
+            "attack": 40,
+            "defense": 90,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Add 20% shield to this Axie for each debuff it possesses."
+        },
+        {
+            "id": 85,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(47).png",
+            "Class": "Bird",
+            "part": "THE LAST ONE",
+            "name": "Risky Feather",
+            "type": "tail",
+            "attack": 150,
+            "defense": 0,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply 2 Attack- to this Axie."
+        },
+        {
+            "id": 86,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(50).png",
+            "Class": "Bird",
+            "part": "CLOUD",
+            "name": "Puffy Smack",
+            "type": "tail",
+            "attack": 100,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Skip targets that are in Last Stand."
+        },
+        {
+            "id": 87,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(49).png",
+            "Class": "Bird",
+            "part": "GRANMA'S FAN",
+            "name": "Cool Breeze",
+            "type": "tail",
+            "attack": 110,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Chill to target for 2 rounds."
+        },
+        {
+            "id": 88,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(63).png",
+            "Class": "Bird",
+            "part": "POST FIGHT",
+            "name": "All-out Shot",
+            "type": "tail",
+            "attack": 110,
+            "defense": 0,
+            "cost": 0,
+            "distance": "Ranged",
+            "text": "Inflict 30% of this Axie's max HP to itself."
+        },
+        {
+            "id": 89,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(75).png",
+            "Class": "Bug",
+            "part": "SNAIL SHELL",
+            "name": "Sticky Goo",
+            "type": "back",
+            "attack": 40,
+            "defense": 60,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Stun attacker if this Axie’s shield breaks. Can only trigger once per round."
+        },
+        {
+            "id": 90,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(71).png",
+            "Class": "Bug",
+            "part": "GARISH WORM",
+            "name": "Barb Strike",
+            "type": "back",
+            "attack": 90,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply poison to target when played in a chain."
+        },
+        {
+            "id": 91,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(85).png",
+            "Class": "Bug",
+            "part": "BUZZ BUZZ",
+            "name": "Bug Noise",
+            "type": "back",
+            "attack": 110,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Attack- to target."
+        },
+        {
+            "id": 92,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(66).png",
+            "Class": "Bug",
+            "part": "SANDAL",
+            "name": "Bug Splat",
+            "type": "back",
+            "attack": 110,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 50% more damage when attacking Bug targets."
+        },
+        {
+            "id": 93,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(67).png",
+            "Class": "Bug",
+            "part": "SCARAB",
+            "name": "Scarab Curse",
+            "type": "back",
+            "attack": 110,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Target cannot be healed for 2 rounds."
+        },
+        {
+            "id": 94,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(76).png",
+            "Class": "Bug",
+            "part": "SPIKY WING",
+            "name": "Buzzing Wind",
+            "type": "back",
+            "attack": 10,
+            "defense": 30,
+            "cost": 0,
+            "distance": "Ranged",
+            "text": "Apply Fragile to target until next round."
+        },
+        {
+            "id": 95,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(74).png",
+            "Class": "Bug",
+            "part": "LAGGING",
+            "name": "Mystic Rush",
+            "type": "horn",
+            "attack": 30,
+            "defense": 0,
+            "cost": 0,
+            "distance": "Melee",
+            "text": "Apply Speed- to target for 2 rounds."
+        },
+        {
+            "id": 96,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(77).png",
+            "Class": "Bug",
+            "part": "ANTENNA",
+            "name": "Bug Signal",
+            "type": "horn",
+            "attack": 80,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Steal energy from your opponent when chained with another \"Bug Signal\" card."
+        },
+        {
+            "id": 97,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(69).png",
+            "Class": "Bug",
+            "part": "CATERPILLARS",
+            "name": "Grub Surprise",
+            "type": "horn",
+            "attack": 100,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Fear to shielded targets."
+        },
+        {
+            "id": 98,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(78).png",
+            "Class": "Bug",
+            "part": "PLIERS",
+            "name": "Dull Grip",
+            "type": "horn",
+            "attack": 110,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 30% more damage to shielded targets."
+        },
+        {
+            "id": 99,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(72).png",
+            "Class": "Bug",
+            "part": "PARASITE",
+            "name": "Third Glance",
+            "type": "horn",
+            "attack": 80,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Randomly discard 1 card from your enemy's hand."
+        },
+        {
+            "id": 100,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(83).png",
+            "Class": "Bug",
+            "part": "LEAF BUG",
+            "name": "Disguise",
+            "type": "horn",
+            "attack": 20,
+            "defense": 20,
+            "cost": 0,
+            "distance": "Melee",
+            "text": "Gain 1 energy when comboed with a plant card."
+        },
+        {
+            "id": 101,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(79).png",
+            "Class": "Bug",
+            "part": "MOSQUITO",
+            "name": "Blood Taste",
+            "type": "mouth",
+            "attack": 80,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Heal this Axie by the damage inflicted with this card."
+        },
+        {
+            "id": 102,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(65).png",
+            "Class": "Bug",
+            "part": "PINCER",
+            "name": "Sunder Claw",
+            "type": "mouth",
+            "attack": 20,
+            "defense": 0,
+            "cost": 0,
+            "distance": "Melee",
+            "text": "Randomly discard 1 card from your enemy's hand."
+        },
+        {
+            "id": 103,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(84).png",
+            "Class": "Bug",
+            "part": "CUTE BUNNY",
+            "name": "Terror Chomp",
+            "type": "mouth",
+            "attack": 100,
+            "defense": 35,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Fear to target for 2 turns when played in a Chain."
+        },
+        {
+            "id": 104,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(73).png",
+            "Class": "Bug",
+            "part": "SQUARE TEETH",
+            "name": "Mite Bite",
+            "type": "mouth",
+            "attack": 30,
+            "defense": 0,
+            "cost": 0,
+            "distance": "Melee",
+            "text": "Add 100% more damage when comboed with another card."
+        },
+        {
+            "id": 105,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(70).png",
+            "Class": "Bug",
+            "part": "ANT",
+            "name": "Chemical Warfare",
+            "type": "tail",
+            "attack": 30,
+            "defense": 100,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Stench to enemy for 1 round."
+        },
+        {
+            "id": 106,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(81).png",
+            "Class": "Bug",
+            "part": "TWIN TAIL",
+            "name": "Twin Needle",
+            "type": "tail",
+            "attack": 40,
+            "defense": 0,
+            "cost": 0,
+            "distance": "Ranged",
+            "text": "Attack twice when comboed with another card."
+        },
+        {
+            "id": 107,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(80).png",
+            "Class": "Bug",
+            "part": "FISH SNACK",
+            "name": "Anesthetic Bait",
+            "type": "tail",
+            "attack": 60,
+            "defense": 90,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply stun when struck by Aquatic or Bird Class cards. Can only trigger once per round."
+        },
+        {
+            "id": 108,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(68).png",
+            "Class": "Bug",
+            "part": "GRAVEL ANT",
+            "name": "Numbing Lecretion",
+            "type": "tail",
+            "attack": 30,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Disable target's melee cards next round."
+        },
+        {
+            "id": 109,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(82).png",
+            "Class": "Bug",
+            "part": "PUPAE",
+            "name": "Grub Explode",
+            "type": "tail",
+            "attack": 70,
+            "defense": 0,
+            "cost": 0,
+            "distance": "Melee",
+            "text": "Deal 200% damage when attacking in Last stand. Axie's Last Stand ends after it attacks."
+        },
+        {
+            "id": 110,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(86).png",
+            "Class": "Bug",
+            "part": "THORNY CATERPILLAR",
+            "name": "Allergic Reaction",
+            "type": "tail",
+            "attack": 100,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 130% damage to debuffed targets."
+        },
+        {
+            "id": 111,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(126).png",
+            "Class": "Reptile",
+            "part": "BONE SAIL",
+            "name": "Ivory Chop",
+            "type": "back",
+            "attack": 80,
+            "defense": 80,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Draw a card if this Axie's shield breaks."
+        },
+        {
+            "id": 112,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(116).png",
+            "Class": "Reptile",
+            "part": "TRI SPIKES",
+            "name": "Spike Throw",
+            "type": "back",
+            "attack": 80,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Target enemy with lowest shield when comboed with 2 or more cards."
+        },
+        {
+            "id": 113,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(117).png",
+            "Class": "Reptile",
+            "part": "GREEN THORNS",
+            "name": "Vine Dagger",
+            "type": "back",
+            "attack": 20,
+            "defense": 30,
+            "cost": 0,
+            "distance": "Ranged",
+            "text": "Double shield from this card when comboed with a plant card."
+        },
+        {
+            "id": 114,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(111).png",
+            "Class": "Reptile",
+            "part": "INDIAN STAR",
+            "name": "Bulkwark",
+            "type": "back",
+            "attack": 20,
+            "defense": 80,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Reflect 40% of melee damage back at attacker."
+        },
+        {
+            "id": 115,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(121).png",
+            "Class": "Reptile",
+            "part": "RED EAR",
+            "name": "Slippery Shield",
+            "type": "back",
+            "attack": 10,
+            "defense": 145,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Add 15% of this Axie's shield to adjacent teammates."
+        },
+        {
+            "id": 116,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(114).png",
+            "Class": "Reptile",
+            "part": "CROC",
+            "name": "Nile Strike",
+            "type": "back",
+            "attack": 85,
+            "defense": 60,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Speed- to target for 2 rounds."
+        },
+        {
+            "id": 117,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(127).png",
+            "Class": "Reptile",
+            "part": "UNKO",
+            "name": "Poo Fling",
+            "type": "horn",
+            "attack": 30,
+            "defense": 100,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Stench to target until end of round."
+        },
+        {
+            "id": 118,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(110).png",
+            "Class": "Reptile",
+            "part": "SCALY SPEAR",
+            "name": "Scaly Lunge",
+            "type": "horn",
+            "attack": 110,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 120% damage when chained with another \"lunge\" card."
+        },
+        {
+            "id": 119,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(109).png",
+            "Class": "Reptile",
+            "part": "CERASTES",
+            "name": "Surprise Invasion",
+            "type": "horn",
+            "attack": 90,
+            "defense": 60,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 130% damage if target is faster than this Axie."
+        },
+        {
+            "id": 120,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(118).png",
+            "Class": "Reptile",
+            "part": "SCALY SPOON",
+            "name": "Tiny Catapult",
+            "type": "horn",
+            "attack": 80,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Reflect 50% of ranged damage back at attacker."
+        },
+        {
+            "id": 121,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(120).png",
+            "Class": "Reptile",
+            "part": "INCISOR",
+            "name": "Disarm",
+            "type": "horn",
+            "attack": 100,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Speed- to attacker for 2 rounds."
+        },
+        {
+            "id": 122,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(123).png",
+            "Class": "Reptile",
+            "part": "BUMPY",
+            "name": "Overgrow Keratin",
+            "type": "horn",
+            "attack": 90,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Recover 20 shield per turn."
+        },
+        {
+            "id": 123,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(113).png",
+            "Class": "Reptile",
+            "part": "TOOTHLESS BITE",
+            "name": "Sneaky Raid",
+            "type": "mouth",
+            "attack": 20,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Target the furthest enemy."
+        },
+        {
+            "id": 124,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(122).png",
+            "Class": "Reptile",
+            "part": "KOTARO",
+            "name": "Kotaro bite",
+            "type": "mouth",
+            "attack": 85,
+            "defense": 30,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Gain 1 energy if target is faster than this Axie."
+        },
+        {
+            "id": 125,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(125).png",
+            "Class": "Reptile",
+            "part": "RAZOR BITE",
+            "name": "Why So Serious",
+            "type": "mouth",
+            "attack": 95,
+            "defense": 55,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Heal this Axie by damage inflicted with this card to Aquatic targets."
+        },
+        {
+            "id": 126,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(124).png",
+            "Class": "Reptile",
+            "part": "TINY TURTLE",
+            "name": "Chomp",
+            "type": "mouth",
+            "attack": 75,
+            "defense": 50,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Apply Stun to enemy when comboed with at least 2 additional cards."
+        },
+        {
+            "id": 127,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(130).png",
+            "Class": "Reptile",
+            "part": "WALL GECKO",
+            "name": "Critical Escape",
+            "type": "tail",
+            "attack": 90,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Reduce damage taken by 15% this round."
+        },
+        {
+            "id": 128,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(112).png",
+            "Class": "Reptile",
+            "part": "IGUANA",
+            "name": "Scale Dart",
+            "type": "tail",
+            "attack": 90,
+            "defense": 60,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Generate 1 energy when attacking a buffed target."
+        },
+        {
+            "id": 129,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(128).png",
+            "Class": "Reptile",
+            "part": "TINY DINO",
+            "name": "Tiny Swing",
+            "type": "tail",
+            "attack": 80,
+            "defense": 40,
+            "cost": 1,
+            "distance": "Melee",
+            "text": "Deal 150% damage after round 4."
+        },
+        {
+            "id": 130,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(115).png",
+            "Class": "Reptile",
+            "part": "SNAKE JAR",
+            "name": "Jar Barrage",
+            "type": "tail",
+            "attack": 80,
+            "defense": 20,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Attacks that break this Axie’s shield cannot do additional damage. Can only trigger once per round."
+        },
+        {
+            "id": 131,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(119).png",
+            "Class": "Reptile",
+            "part": "GILA",
+            "name": "Neuro Toxin",
+            "type": "tail",
+            "attack": 100,
+            "defense": 55,
+            "cost": 1,
+            "distance": "Ranged",
+            "text": "Apply Attack- to poisoned targets."
+        },
+        {
+            "id": 132,
+            "Icon": {
+                "instanceID": 17118
+            },
+            "UrlIcon": "https://raw.githubusercontent.com/FBGDFB/Axie-Infinity/main/Axie_Infinity/Cart/Card%20(129).png",
+            "Class": "Reptile",
+            "part": "GRASS SNAKE",
+            "name": "Venom Spray",
+            "type": "tail",
+            "attack": 20,
+            "defense": 30,
+            "cost": 0,
+            "distance": "Ranged",
+            "text": "Apply Poison to target."
+        }
+    ]
+}
